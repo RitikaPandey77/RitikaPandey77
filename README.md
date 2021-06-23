@@ -9,4 +9,4 @@
 - 💬 Ask me about GCP AWS
 - 📫 How to reach me: mail- pandeyvaishali77@gmail.com linkedin-https://www.linkedin.com/in/ritika-pandey-1345b1180/
 - 😄 Pronouns: She, her
-- ⚡ Fun fact: I am a part time engineer and a full time writer
+
