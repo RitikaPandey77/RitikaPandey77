@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Seasoned and independent Full Stack Developer with experience in blending the art of design with skill of
+Seasoned and independent Full Stack Developer with experience in blending the art of design with skill of
 programming to deliver an immersive and engaging user experience through efficient website, application
 development, proactive feature optimization, and relentless debugging. Apart from this I have keen
 interests in cloud computing & DeVops as well.
